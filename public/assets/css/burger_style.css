@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(238, 133, 36, 0.952);
+}
+
+.heading {
+    margin-bottom: 30px;
+}
+
+#burger_gif {
+    height: 200px;
+}
+
+.burger_list {
+    background: white;
+}
+
+.burger_heading {
+    margin-bottom: 10px;
+}
